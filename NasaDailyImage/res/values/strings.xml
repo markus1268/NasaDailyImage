@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nasa Daily Image</string>
+    <string name="action_settings">Settings</string>
+	<string name="test_image_title">Astronaut Candidate Survival Training</string>
+	<string name="test_image_date">Fri, 30 Aug 2013</string>
+	<string name="test_image_description">The countenance of astronaut candidate Christina M. Hammock signals her success at fire-starting, a technique that will help sustain her for three days in the wilderness. As the first phase of their extensive training program along the way to become full-fledged astronauts, eight new candidates spent three days in the wild participating in their wilderness survival training, near Rangeley, Maine.
+Credit: NASA</string>
+</resources>
